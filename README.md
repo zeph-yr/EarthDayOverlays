@@ -10,6 +10,10 @@ What started as a few lines of C# and a 3AM chat became a mission to unite the e
 
 **This is a critical time for humanity. Our planet's future needs all the help it can get. Now's the time to show what we can do as a community. We can do this together.** ❤️
 
+<i>With deepest gratitude,</i><br>
+<i>Zeph & hitmewmusic + the BOOMR Clan</i><br><br>
+_PS. Remember to win the true battle, we need lasting change. Get involved with efforts in your city & country and continue the fight._
+
 
 ## How To Use
 This pack contains funny to spicy banners and calls-to-action for streamers. Be creative and arrange them how you like. The bot-messages can be used in your stream chat to point viewers to resources where they can learn more and get involved.
@@ -22,3 +26,5 @@ Feel free to use these in your stream, discord, social media and to share with a
 ## Contents
 ![screenshot](https://github.com/zeph-yr/EarthDayOverlay/blob/master/Screenshots/demo_banners.png)
 ![screenshot](https://github.com/zeph-yr/EarthDayOverlay/blob/master/Screenshots/demo_call_to_action.png)
+
+## About
