@@ -16,7 +16,7 @@ _PS. Remember to win the true battle, we need lasting change. Get involved with 
 
 
 ## How To Use
-This pack contains funny to spicy banners and calls-to-action for streamers. Be creative and arrange them how you like. The bot-messages can be used in your stream chat to point viewers to resources where they can learn more and get involved.
+This pack contains funny Dad joke banners to spicy calls-to-action for streamers. Be creative and arrange them how you like. The bot-messages can be used in your stream chat to point viewers to resources where they can learn more and get involved.
 
 Feel free to use these in your stream, discord, social media and to share with anyone or group whom you think would use them for good and help the cause. When sharing these materials, we ask you to include this document along with the original zip contents.
 
